@@ -1,15 +1,15 @@
 StoreGDB 0
 real(0,1)
+0→Ymin
+62→Ymax
 0→XMin
-62→XMax
-0→YMin
-94→YMax
+94→Xmax
 AxesOff
 FnOff
-Text(1,1,"> Checking calculator)
+Text(1,1,"> Checking calculator
 real(14)→LPXLR8
-For(A,0,250)
+For(A,0,250
 End
 Text(7,1,"> Calculator identified
-For(A,0,250)
+For(A,0,250
 End
